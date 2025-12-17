@@ -13,5 +13,6 @@ Collection of papers about video-audio understanding
 - <span id = "1001">**[HumanOmniV2]**</span> | **Arxiv'2506** | HumanOmniV2: From Understanding to Omni-Modal Reasoning with Context | [`[pdf]`](https://arxiv.org/pdf/2506.21277) | [`[code]`](https://github.com/HumanMLLM/HumanOmniV2)
 - <span id = "1001">**[Qwen3-Omini]**</span> | **Arxiv'2509** | Qwen3-Omni Technical Report | [`[pdf]`](https://arxiv.org/pdf/2509.17765) | [`[code]`](https://github.com/QwenLM/Qwen3-Omni)
 - <span id = "1001">**[InteractiveOmni]**</span> | **Arxiv'2510** | InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue | [`[pdf]`](https://arxiv.org/pdf/2510.13747) | [`[code]`](https://github.com/OpenSenseNova/InteractiveOmni)
+- <span id = "1001">**[LongCat-Flash-Omni]**</span> | **Arxiv'2511** | LongCat-Flash-Omni Technical Report | [`[pdf]`](https://arxiv.org/pdf/2511.00279) | [`[code]`](https://github.com/meituan-longcat/LongCat-Flash-Omni)
 
 ## benchmark
