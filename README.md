@@ -8,6 +8,7 @@ Collection of papers about video-audio understanding
 - <span id = "1001">**[video-SALMONN]**</span> | **Arxiv'2406** | video-SALMONN: Speech-Enhanced Audio-Visual Large Language Models | [`[pdf]`](https://arxiv.org/pdf/2406.15704) | [`[code]`](https://github.com/bytedance/SALMONN)
 - <span id = "1001">**[VITA]**</span> | **Arxiv'2408** | VITA: Towards Open-Source Interactive Omni Multimodal LLM | [`[pdf]`](https://arxiv.org/pdf/2408.05211) | [`[code]`](https://vita-home.github.io)
 - <span id = "1001">**[VITA 1.5]**</span> | **Arxiv'2501** | VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction | [`[pdf]`](https://arxiv.org/pdf/2501.01957) | [`[code]`](https://vita-home.github.io)
+- <span id = "1001">**[Baichuan-Omni-1.5]**</span> | **Arxiv'2501** | Baichuan-Omni-1.5 Technical Report | [`[pdf]`](https://arxiv.org/pdf/2501.15368) | [`[code]`](https://github.com/baichuan-inc/Baichuan-Omni-1.5)
 - <span id = "1001">**[Ola]**</span> | **Arxiv'2502** | Ola: Pushing the Frontiers of Omni-Modal Language Model | [`[pdf]`](https://arxiv.org/pdf/2502.04328) | [`[code]`](https://ola-omni.github.io)
 - <span id = "1001">**[Qwen2.5-Omini]**</span> | **Arxiv'2503** | Qwen2.5-Omni Technical Report | [`[pdf]`](https://arxiv.org/pdf/2503.20215) | [`[code]`](https://github.com/QwenLM/Qwen2.5-Omni)
 - <span id = "1001">**[HumanOmniV2]**</span> | **Arxiv'2506** | HumanOmniV2: From Understanding to Omni-Modal Reasoning with Context | [`[pdf]`](https://arxiv.org/pdf/2506.21277) | [`[code]`](https://github.com/HumanMLLM/HumanOmniV2)
