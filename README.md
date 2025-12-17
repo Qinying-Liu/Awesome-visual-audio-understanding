@@ -1,4 +1,4 @@
-# awesome-visual-audio-understanding
+# Awesome-visual-audio-understanding
 
 ## Methods
 Collection of papers about video-audio understanding
