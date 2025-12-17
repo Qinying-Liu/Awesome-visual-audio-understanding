@@ -1,6 +1,6 @@
 # awesome-visual-audio-understanding
 
-## methods
+## Methods
 Collection of papers about video-audio understanding
 
 - <span id = "1001">**[Video-LLaMA]**</span> | **Arxiv'2306** | Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding | [`[pdf]`](https://arxiv.org/pdf/2306.02858) | [`[code]`](https://github.com/DAMO-NLP-SG/Video-LLaMA)
@@ -16,4 +16,4 @@ Collection of papers about video-audio understanding
 - <span id = "1001">**[InteractiveOmni]**</span> | **Arxiv'2510** | InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue | [`[pdf]`](https://arxiv.org/pdf/2510.13747) | [`[code]`](https://github.com/OpenSenseNova/InteractiveOmni)
 - <span id = "1001">**[LongCat-Flash-Omni]**</span> | **Arxiv'2511** | LongCat-Flash-Omni Technical Report | [`[pdf]`](https://arxiv.org/pdf/2511.00279) | [`[code]`](https://github.com/meituan-longcat/LongCat-Flash-Omni)
 
-## benchmark
+## Benchmark
