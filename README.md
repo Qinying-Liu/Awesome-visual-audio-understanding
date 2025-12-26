@@ -16,6 +16,7 @@ Collection of papers about video-audio understanding
 - <span id = "1001">**[Qwen3-Omini]**</span> | **Arxiv'2509** | Qwen, Alibaba | Qwen3-Omni Technical Report | [`[pdf]`](https://arxiv.org/pdf/2509.17765) | [`[code]`](https://github.com/QwenLM/Qwen3-Omni)
 - <span id = "1001">**[InteractiveOmni]**</span> | **Arxiv'2510** | Sensetime | InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn Dialogue | [`[pdf]`](https://arxiv.org/pdf/2510.13747) | [`[code]`](https://github.com/OpenSenseNova/InteractiveOmni)
 - <span id = "1001">**[OmniVinci]**</span> | **Arxiv'2510** | NVIDIA | OmniVinci: Enhancing Architecture and Data for Omni-Modal Understanding LLM | [`[pdf]`](https://arxiv.org/pdf/2510.15870) | [`[code]`](https://github.com/NVlabs/OmniVinci)
+- <span id = "1001">**[Ming-Flash-Omni]**</span> | **Arxiv'2510** | Inclusion AI, Ant Group | Ming-Flash-Omni: A Sparse, Unified Architecture for Multimodal Perception and Generation | [`[pdf]`](https://arxiv.org/abs/2510.24821) | [`[code]`](https://github.com/inclusionAI/Ming)
 - <span id = "1001">**[LongCat-Flash-Omni]**</span> | **Arxiv'2511** | Meituan | LongCat-Flash-Omni Technical Report | [`[pdf]`](https://arxiv.org/pdf/2511.00279) | [`[code]`](https://github.com/meituan-longcat/LongCat-Flash-Omni)
 
 ## Benchmarks
